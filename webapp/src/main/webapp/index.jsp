@@ -1,2 +1,2 @@
-<h1> Hello, Deployed on kubernetes, YOOO!!! </h1>
+<h1> Project done, YOOO!!! </h1>
 
